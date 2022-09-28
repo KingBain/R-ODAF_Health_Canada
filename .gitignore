@@ -75,7 +75,6 @@ TODO.txt
 data/metadata/metadata.QC_applied.txt
 run.sh
 preprocessing.txt
-config/config.yaml
 *Log.out
 *Log.progress.out
 *Log.final.out
